@@ -1,0 +1,6 @@
+{
+  "name": "Budget Si Bebek - Jurnal Keuangan",
+  "description": "Jurnal keuangan personal yang mindful dan nyaman bersama Si Bebek untuk mencatat transaksi harian, anggaran, dan celengan impian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
